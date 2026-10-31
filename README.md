@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/t3knobox/sermon-cut-releases/releases/latest/download/SermonCut-Setup.exe">
-    <img src="assets/download-button.svg" alt="Download Sermon Cut for Windows" width="380">
+    <img src="assets/download-button.svg?v=2" alt="Download Sermon Cut for Windows" width="380">
   </a>
   <br>
   <a href="https://github.com/t3knobox/sermon-cut-releases/releases/latest/download/SermonCut-Setup.exe"><b>Download Sermon Cut for Windows</b></a>
