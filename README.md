@@ -73,6 +73,6 @@ Writing the transcript takes the longest: roughly 15 to 40 minutes, longer on an
 If there was worship, **Export all** in the side bar also makes the worship video.
 
 ### If something goes wrong
-- **No slides found, or the wrong slides:** on **Quick check**, click **Use other files** and choose the right PowerPoint.
+- **No slides found, or the wrong slides:** on **Quick check**, click **Use other files**, pick the right PowerPoint and click **Start edit** again.
 - **The sermon starts or ends at the wrong time:** on **Quick check**, click **Change**. In the editor, use the start and end times under the video.
 - **Something else:** close the app and open it again. Your work is saved as you go. If it keeps happening, send the file **app.log**: press Windows + R, type `%LOCALAPPDATA%\Sermon Cut` and press Enter, and it's in that folder.
