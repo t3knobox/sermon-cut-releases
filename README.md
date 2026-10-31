@@ -2,8 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/t3knobox/sermon-cut-releases/releases/latest/download/SermonCut-Setup.exe">
-    <img src="https://img.shields.io/badge/Download%20Sermon%20Cut-for%20Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sermon Cut for Windows" height="56">
+    <img src="https://img.shields.io/badge/Download%20Sermon%20Cut%20for%20Windows-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sermon Cut for Windows" width="420">
   </a>
+  <br>
+  <a href="https://github.com/t3knobox/sermon-cut-releases/releases/latest/download/SermonCut-Setup.exe"><b>Download Sermon Cut for Windows</b></a>
   <br>
   <img src="https://img.shields.io/github/v/release/t3knobox/sermon-cut-releases?label=newest%20version&style=flat-square" alt="Newest version">
 </p>
