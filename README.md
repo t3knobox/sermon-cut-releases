@@ -1,3 +1,5 @@
+(This app is for my Dad for him to easily edit his recordings)
+
 # Sermon Cut
 
 <p align="center">
